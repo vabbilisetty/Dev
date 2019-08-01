@@ -1,0 +1,69 @@
+<testsuite name="new-test-maven-suite" time="1.016" failures="0" errors="0" skipped="0" tests="1">
+  <properties>
+    <property key="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property key="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\bin"/>
+    <property key="java.vm.version" value="25.212-b04"/>
+    <property key="maven.multiModuleProjectDirectory" value="E:\Mule\mavenapi"/>
+    <property key="java.vm.vendor" value=""/>
+    <property key="java.vendor.url" value="http://java.oracle.com/"/>
+    <property key="guice.disable.misplaced.annotation.check" value="true"/>
+    <property key="path.separator" value=";"/>
+    <property key="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property key="file.encoding.pkg" value="sun.io"/>
+    <property key="user.country" value="US"/>
+    <property key="user.script" value=""/>
+    <property key="sun.java.launcher" value="SUN_STANDARD"/>
+    <property key="sun.os.patch.level" value=""/>
+    <property key="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property key="user.dir" value="E:\Mule\mavenapi"/>
+    <property key="java.runtime.version" value="1.8.0_212-b04"/>
+    <property key="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property key="java.endorsed.dirs" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\endorsed"/>
+    <property key="os.arch" value="amd64"/>
+    <property key="java.io.tmpdir" value="C:\Users\User\AppData\Local\Temp\"/>
+    <property key="line.separator" value="&#xd;&#xa;"/>
+    <property key="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property key="user.variant" value=""/>
+    <property key="os.name" value="Windows 10"/>
+    <property key="classworlds.conf" value="C:\Users\User\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\..\bin\m2.conf"/>
+    <property key="sun.jnu.encoding" value="Cp1252"/>
+    <property key="java.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\User\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property key="maven.conf" value="C:\Users\User\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\../conf"/>
+    <property key="java.specification.name" value="Java Platform API Specification"/>
+    <property key="java.class.version" value="52.0"/>
+    <property key="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property key="os.version" value="10.0"/>
+    <property key="library.jansi.path" value="C:\Users\User\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\..\lib\jansi-native"/>
+    <property key="user.home" value="C:\Users\User"/>
+    <property key="user.timezone" value="GMT+05:30"/>
+    <property key="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property key="file.encoding" value="Cp1252"/>
+    <property key="java.specification.version" value="1.8"/>
+    <property key="java.class.path" value="C:\Users\User\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property key="user.name" value="User"/>
+    <property key="java.vm.specification.version" value="1.8"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property key="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre"/>
+    <property key="sun.arch.data.model" value="64"/>
+    <property key="user.language" value="en"/>
+    <property key="java.specification.vendor" value="Oracle Corporation"/>
+    <property key="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property key="java.vm.info" value="mixed mode"/>
+    <property key="java.version" value="1.8.0_212"/>
+    <property key="java.ext.dirs" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property key="sun.boot.class.path" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\resources.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\rt.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\jsse.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\jce.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\charsets.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\lib\jfr.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-hotspot\jre\classes"/>
+    <property key="java.vendor" value="AdoptOpenJDK"/>
+    <property key="sun.stderr.encoding" value="cp437"/>
+    <property key="maven.home" value="C:\Users\User\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\.."/>
+    <property key="file.separator" value="\"/>
+    <property key="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property key="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property key="sun.cpu.endian" value="little"/>
+    <property key="sun.stdout.encoding" value="cp437"/>
+    <property key="sun.desktop" value="windows"/>
+    <property key="sun.cpu.isalist" value="amd64"/>
+    <property key="mule.testingMode" value="true"/>
+    <property key="mule.working.dir" value="E:\Mule\mavenapi\target\.mule"/>
+  </properties>
+  <testcase time="0.093" name="new-test-maven-suite-mavenapiFlowTest" classname="new-test-maven-suite"/>
+</testsuite>
